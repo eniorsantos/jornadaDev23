@@ -4,7 +4,7 @@
 
 #### Link para o app
 
-https://tikt--jornada.web.app/
+(https://tikt--jornada.web.app/)
 
 
 
